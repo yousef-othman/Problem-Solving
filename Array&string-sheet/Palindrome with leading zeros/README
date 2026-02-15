@@ -1,0 +1,8 @@
+Problem Statement
+Given is an integer N.
+
+Is it possible to add zero or more 0s at the beginning of the string representing 
+N in base ten to get a palindrome?
+
+Constraints
+0 ≤ N ≤ 10 
